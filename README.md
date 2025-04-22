@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 1- Clone the repository
 ```
-git clone https://github.com/elberthcorniell/Youtube-Clone.git
+git clone https://github.com/AntonyOtero/the-odin-template.git
 ```
 2- Open the cloned repo directory in VS Code, right click the index.html file and click on "Open With Live Server"
 
